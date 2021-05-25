@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://gatsby-starter-default/./src/pages/about.js"],"names":[],"mappings":"0JASA,UANa,kBACT,2BACI","file":"component---src-pages-about-js-72801156fdb2a9dc8e1f.js","sourcesContent":["// @flow\nimport React from 'react';\n\nconst Page = () => (\n    <div>\n        <h1>About</h1>\n    </div>\n)\n\nexport default Page;"],"sourceRoot":""}
