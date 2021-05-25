@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `chimaru home`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `chimarurnrmr's home page`,
+    siteUrl: `https://chimaru.github.io/chimaru-home/`,
+    author: `@chimarurnrmr`,
   },
+  pathPrefix: '/chimaru-home',
   plugins: [
     `gatsby-plugin-flow`,
     `gatsby-plugin-react-helmet`,
