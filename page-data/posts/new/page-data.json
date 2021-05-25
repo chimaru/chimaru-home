@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-post-js","path":"/posts/new","result":{"data":{"markdownRemark":{"html":"<h2>new</h2>\n<ul>\n<li>テスト投稿 new</li>\n</ul>","frontmatter":{"title":"new"}}},"pageContext":{"slug":"/posts/new"}},"staticQueryHashes":["3649515864"]}
